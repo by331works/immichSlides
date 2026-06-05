@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://slides.by331.net/sitemap.xml
