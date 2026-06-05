@@ -150,6 +150,12 @@ For public, non-sensitive issues — or feedback about the website, copy, or pre
 
 https://github.com/by331works/immichSlides/issues
 
+## License
+
+Website code in this repository is licensed under the MIT License. Product copy, screenshots, images, logos, icons, and other brand/design assets are © 2026 331-Works, all rights reserved.
+
+See [LICENSE.md](LICENSE.md) for details.
+
 ## What this repository is
 
 This public repository is for website and discovery. It is not the app source code repository.

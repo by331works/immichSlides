@@ -150,6 +150,12 @@ https://slides.by331.net/support/
 
 https://github.com/by331works/immichSlides/issues
 
+## 许可证
+
+本仓库中的网站代码使用 MIT License。产品文案、截图、图片、logo、icon 和其他品牌 / 设计资产由 331-Works 保留版权，未经许可不得复用。
+
+详见 [LICENSE.md](LICENSE.md)。
+
 ## 这个仓库是什么
 
 这个公开仓库用于官网展示和搜索发现，不是 App 源码仓库。
