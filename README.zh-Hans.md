@@ -158,7 +158,7 @@ immichSlides 免费、无广告。
 
 支持完全自愿，不会解锁任何额外功能。
 
-[通过 Ko-fi 支持 immichSlides](https://ko-fi.com/331works)
+[![Support immichSlides on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/331works)
 
 ## 许可证
 

@@ -158,7 +158,7 @@ If it helps you bring your Immich photos back into view, you can support develop
 
 Support is optional and does not unlock any app features.
 
-[Support immichSlides on Ko-fi](https://ko-fi.com/331works)
+[![Support immichSlides on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/331works)
 
 ## License
 
