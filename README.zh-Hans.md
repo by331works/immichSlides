@@ -150,6 +150,16 @@ https://slides.by331.net/support/
 
 https://github.com/by331works/immichSlides/issues
 
+## 支持开发
+
+immichSlides 免费、无广告。
+
+如果它帮你把 Immich 照片重新带回生活里，可以通过 Ko-fi 支持后续开发和维护。
+
+支持完全自愿，不会解锁任何额外功能。
+
+[通过 Ko-fi 支持 immichSlides](https://ko-fi.com/331works)
+
 ## 许可证
 
 本仓库中的网站代码使用 MIT License。产品文案、截图、图片、logo、icon 和其他品牌 / 设计资产由 331-Works 保留版权，未经许可不得复用。

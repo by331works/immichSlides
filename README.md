@@ -150,6 +150,16 @@ For public, non-sensitive issues — or feedback about the website, copy, or pre
 
 https://github.com/by331works/immichSlides/issues
 
+## Support development
+
+immichSlides is free and has no ads.
+
+If it helps you bring your Immich photos back into view, you can support development on Ko-fi.
+
+Support is optional and does not unlock any app features.
+
+[Support immichSlides on Ko-fi](https://ko-fi.com/331works)
+
 ## License
 
 Website code in this repository is licensed under the MIT License. Product copy, screenshots, images, logos, icons, and other brand/design assets are © 2026 331-Works, all rights reserved.
